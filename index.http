@@ -1,0 +1,10 @@
+POST http://localhost:3008/users
+Content-Type:application/json
+
+{
+    "username":"upendar",
+    "name":"upendar",
+    "password":"price78",
+    "gender":"male",
+    "location":"Hyderabad"
+}
